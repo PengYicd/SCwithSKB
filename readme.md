@@ -12,7 +12,7 @@ This is the implementation of the paper named [Deep Learning-Empowered Semantic 
 @ARTICLE{10318078,
   author={Peng Yi and
           Yang Cao and
-          Jingren Xu and
+          Xin Kang and
           Y.-C. Liang},
   journal={{IEEE} Trans. Wirel. Commun.}, 
   title={Deep Learning-Empowered Semantic Communication Systems with a Shared Knowledge Base}, 
