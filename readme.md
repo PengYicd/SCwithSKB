@@ -10,17 +10,16 @@ This is the implementation of the paper named [Deep Learning-Empowered Semantic 
 
 ```latex
 @ARTICLE{10318078,
-  author={Peng Yi and
-          Yang Cao and
-          Xin Kang and
-          Y.-C. Liang},
-  journal={{IEEE} Trans. Wirel. Commun.}, 
-  title={Deep Learning-Empowered Semantic Communication Systems with a Shared Knowledge Base}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  author={Yi, Peng and Cao, Yang and Kang, Xin and Liang, Ying-Chang},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Deep Learning-Empowered Semantic Communication Systems With a Shared Knowledge Base}, 
+  year={2024},
+  volume={23},
+  number={6},
+  pages={6174-6187},
+  keywords={Semantics;Knowledge based systems;Task analysis;Transmitters;Receivers;Information theory;Channel coding;Semantic communication;deep learning;semantic entropy;shared knowledge base;self-attention mechanism},
   doi={10.1109/TWC.2023.3330744}}
+
 
 ```
 
